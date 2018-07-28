@@ -2,5 +2,5 @@ this is a test source file
 
 for i = 1 to 100
 print i
-
+print 'This is added by feature 1'
 end loop; 
